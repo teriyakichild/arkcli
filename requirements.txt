@@ -1,0 +1,5 @@
+BeautifulSoup
+requests
+selenium==2.45.0
+tabulate
+docopt
